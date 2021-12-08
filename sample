@@ -1,0 +1,89 @@
+<html>
+
+<head>
+	<title>
+		Labra Dog
+	</title>
+</head>
+<link rel="stylesheet" href="intro.css">
+
+<body>
+
+	<b>
+		<h1>
+			<marquee> LABRA DOG </marquee>
+		</h1>
+	</b>
+	<img src="html1.jpg" width="600" height="400" alt="html1" class="center" />
+
+	<p> The Labrador Retriever (or Lab and Labrador for short) is a breed of dog. It is a kind
+		of gun dog. Labrador Retrievers are very gentle dogs with family-friendly personalities.
+		They are the most popular breed of dogs
+		for pets in Australia, Canada, New Zealand, the United Kingdom, and the United States.
+		for pets in Australia, Canada, New Zealand, the United Kingdom, and the United States.
+		for pets in Australia, Canada, New Zealand, the United Kingdom, and the United States.
+		he Labrador is one of the most popular dog breeds in a number of countries in the world,
+		particularly in the Western world.
+	</p>
+
+	<b>
+		<h1>
+			<marquee> Some Characteristics of a Labra dog </marquee>
+		</h1>
+	</b>
+	<b>
+		<h3> The average life span of a labra dog: 12 to 15 years.</h3>
+	</b>
+	<b>
+		<h3> The average speed of a Labra dog is around: 25 to 40 Miles/hr.</h3>
+	</b>
+	<b>
+		<h3> Labs are friendly, outgoing, and high-spirited companions who have more than
+			enough affection to go around for a family looking for a medium-to-large dog. The sturdy,
+			well-balanced Labrador Retriever can, depending on the gender, stand from 21.5 to 24.5 inches
+			at the shoulder and weigh between 55 to 80 pounds.</h3>
+	</b>
+
+	<ul>
+		<li>The quick brown fox jumps over the little lazy dog</li>
+		<li>The quick brown labra jumps over the little lazy fox</li>
+		<li>Labra dogs are quite fast and have good stamina</li>
+	</ul>
+
+	<h1>Marks of Students in exam:</h1>
+	<table>
+		<tr>
+			<th>Sr no.</th>
+			<th>Name of Student</th>
+			<th>Marks Achieved Out of 100</th>
+		</tr>
+
+		<tr>
+			<td>1.</td>
+			<td>Aakash</td>
+			<td>72</td>
+		</tr>
+
+		<tr>
+			<td>2.</td>
+			<td>Abhilaash</td>
+			<td>67</td>
+		</tr>
+
+		<tr>
+			<td>3.</td>
+			<td>Aayush</td>
+			<td>75</td>
+		</tr>
+
+		<tr>
+			<td>4.</td>
+			<td>Sumit</td>
+			<td>80</td>
+		</tr>
+
+	</table>
+
+</body>
+
+</html>
